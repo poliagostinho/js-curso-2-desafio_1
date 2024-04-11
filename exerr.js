@@ -74,3 +74,4 @@ function tabuada(n){
     }
 }
 tabuada(num);
+
